@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# msw-jest-timers-whatwg-fetch-example
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Brief example for showing that jest mock timers used with whatwg-fetch (which react-app-polyfill sets) will cause stuck pending request.
 
 ## Available Scripts
 
